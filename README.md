@@ -15,4 +15,4 @@ I, Bridgette Smith am the sole contributor on this project. Follow more of my wo
 
 ## Examples of Storefront
 
-![Alt text] (https://github.com/Bridgette300/bamazon/blob/master/bamazon_screenshot.jpg) "Bamazon")
+![Alt text] (bamazon_screenshot.jpg "Bamazon")
