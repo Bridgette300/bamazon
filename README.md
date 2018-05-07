@@ -14,3 +14,5 @@ This project was the 12th homework assignment for me by the Northwestern Univers
 I, Bridgette Smith am the sole contributor on this project. Follow more of my work on [Bridgette300 Github](https://github.com/Bridgette300).
 
 ## Examples of Storefront
+
+![Alt text] (./bamazon_screenshot.jpg) "Bamazon")
